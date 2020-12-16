@@ -20,4 +20,4 @@ SSMTP is a program capable of sending emails from a local computer to a configur
 
 If you are on Linux, just open a terminal and place the following command line:  
 <div align="center">[InstallSSMTP]</div>
-[InstallSSMTP] = (`sudo apt-get install ssmtp`)
+[InstallSSMTP] = `sudo apt-get install ssmtp`
