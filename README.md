@@ -26,4 +26,28 @@ Once the program is downloaded, it is necessary to configure the ssmtp.conf file
 #user is the name of your Linux user, the symbol # indicates a comment.
 hostname = user  
 
+root = mail@gmail.com  
+
+#for gmail, the next option is:  
+mailhub=smtp.gmail.com:465  
+
+#Establish the mail domain, in this case it should be gmail  
+rewriteDomain = gmail.com  
+
+AuthUser = mail@gmail.com  
+AuthPass = mailPassword  
+
+#The following option allows you to specify the "From:" address of the basic structure of an email  
+FromLineOverride = YES  
+
+UseTLS = YES
 ```
+
+
+
+
+
+
+
+
+
