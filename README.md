@@ -60,7 +60,7 @@ MPACK is a program that allows the sending of attachments via email, so it will 
 OpenCV (Open Computer Vision Library) is a free computer vision library originally developed by Intel. It is fully developed in object-oriented C ++, just like its API, however, it has connectors available for other languages such as Python, Java, Matlab, Octave, and JavaScript. It was created under the BSD license, which allows it to be used freely for commercial and research purposes.  
 To install it just place the following command line: `sudo apt install libopencv-dev`  
 
-Qt Creator es un entorno de desarrollo integrado (IDE) multiplataforma creado para la máxima experiencia de desarrollado. Se ejecuta en sistemas operativos de escritorio Windows, Linux y macOS, y permite a los desarrolladores crear aplicaciones en plataformas de escritorio, móviles e integradas. For this reason, it can be easily downloaded [here](https://www.qt.io/download).
+Qt Creator is a cross-platform integrated development environment (IDE) built for the ultimate developer experience. It runs on Windows, Linux, and macOS desktop operating systems, and enables developers to build applications on desktop, mobile, and embedded platforms. For this reason, it can be easily downloaded [here](https://www.qt.io/download).
 
 
 
