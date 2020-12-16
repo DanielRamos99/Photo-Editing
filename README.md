@@ -18,6 +18,9 @@ When executing the program, a button will appear on the left side with the optio
 
 SSMTP is a program capable of sending emails from a local computer to a configured mail server. It is not a mail server and it does not receive emails, nor does it expand aliases, or manage a queue, it simply sends them. One of its main uses is to forward automated email (such as system alerts) from your computer to an external email address.  
 
-If you are on Linux, just open a terminal and place the following command line:  
-                                                                          `sudo apt-get install ssmtp`
+If you are on Linux, just open a terminal and place the following command line: `sudo apt-get install ssmtp`  
+
+Once the program is downloaded, it is necessary to configure the ssmtp.conf file, where the mail from where the e-mails will be sent will be edited. For this, it is necessary to place the following command line: `sudo nano /etc/ssmtp/ssmtp.conf`  
+  
+  
 
