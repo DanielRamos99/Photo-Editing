@@ -22,4 +22,4 @@ If you are on Linux, just open a terminal and place the following command line:
 <center>
   `sudo apt-get install ssmtp`
   </center>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `sudo apt-get install ssmtp`
+
