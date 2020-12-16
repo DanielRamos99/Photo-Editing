@@ -23,7 +23,7 @@ If you are on Linux, just open a terminal and place the following command line: 
 Once the program is downloaded, it is necessary to configure the ssmtp.conf file, where the mail from where the e-mails will be sent will be edited. For this, it is necessary to place the following command line: `sudo nano /etc/ssmtp/ssmtp.conf`  
   
 ```
-#user is the name of your Linux user, the symbol # indicates a comment.
+#user is the name of your Linux user, the symbol # indicates a comment
 hostname = user  
 
 root = mail@gmail.com  
@@ -41,6 +41,15 @@ AuthPass = mailPassword
 FromLineOverride = YES  
 
 UseTLS = YES
+```  
+
+The next thing is to create a text file (mail.txt) where all the information of the mail that will be sent will be saved. For this, the following command line is necessary: `gedit correo.txt &`  
+
+```
+To: Receiver
+From: Sender (mail configured in ssmtp.conf)
+Subject: Reason of the email
+Anything here is considered the body of the email.
 ```
 
 
