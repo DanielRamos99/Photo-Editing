@@ -64,6 +64,7 @@ Qt Creator is a cross-platform integrated development environment (IDE) built fo
 
 
 
+** Note: ** The code is commented in Spanish, however, each process that is carried out is separated, so it is easy to understand. It will be switched to English in the future.
 
 
 
