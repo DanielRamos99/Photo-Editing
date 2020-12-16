@@ -22,5 +22,8 @@ If you are on Linux, just open a terminal and place the following command line: 
 
 Once the program is downloaded, it is necessary to configure the ssmtp.conf file, where the mail from where the e-mails will be sent will be edited. For this, it is necessary to place the following command line: `sudo nano /etc/ssmtp/ssmtp.conf`  
   
-  
+```
+#user is the name of your Linux user, the symbol # indicates a comment.
+hostname = user  
 
+```
