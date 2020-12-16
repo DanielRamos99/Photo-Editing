@@ -62,9 +62,9 @@ To install it just place the following command line: `sudo apt install libopencv
 
 Qt Creator is a cross-platform integrated development environment (IDE) built for the ultimate developer experience. It runs on Windows, Linux, and macOS desktop operating systems, and enables developers to build applications on desktop, mobile, and embedded platforms. For this reason, it can be easily downloaded [here](https://www.qt.io/download).
 
-
-
-** Note: ** The code is commented in Spanish, however, each process that is carried out is separated, so it is easy to understand. It will be switched to English in the future.
+  
+  
+**Note:** The code is commented in Spanish, however, each process that is carried out is separated, so it is easy to understand. It will be switched to English in the future.
 
 
 
